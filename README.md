@@ -1,2 +1,2 @@
 # 14-braitenberg
-A bug that either fears like or likes light.
+Simulates Braitenberg vehicles which are either attracted or fear light.
